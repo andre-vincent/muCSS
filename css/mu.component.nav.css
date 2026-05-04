@@ -85,6 +85,15 @@ nav details.dropdown {
 	display: inline-block;
 }
 
+/* Dropdown summary inside a colored navbar: blend with the background instead of looking like a form input */
+:is(nav, :has(> nav)):is(.bg-primary, .bg-secondary, .bg-tertiary, .bg-contrast,
+.bg-accent, .bg-success, .bg-info, .bg-warning,
+.bg-error, .bg-pop, .bg-spark) details.dropdown > summary:not([role]) {
+	background-color: transparent;
+	border-color: transparent;
+	color: inherit;
+}
+
 /* Active link (current page) */
 nav .active {
 	font-weight: bold;
