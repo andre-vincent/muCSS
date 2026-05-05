@@ -21,13 +21,13 @@
 		"front-end",
 		"mobile-first"
 	],
-	"homepage": "https://www.mucss.org",
+	"homepage": "https:andre-vincent.github.io/muCSS",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Digicreon/muCSS.git"
+		"url": "git+https://github.com/andre-vincent/muCSS.git"
 	},
 	"bugs": {
-		"url": "https://github.com/Digicreon/muCSS/issues"
+		"url": "https://github.com/andre-vincent/muCSS/issues"
 	},
 	"license": "MIT"
 }
