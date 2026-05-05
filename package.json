@@ -21,7 +21,7 @@
 		"front-end",
 		"mobile-first"
 	],
-	"homepage": "https:andre-vincent.github.io/muCSS/documentation",
+	"homepage": "https:andre-vincent.github.io/muCSS/examples/",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/andre-vincent/muCSS.git"
